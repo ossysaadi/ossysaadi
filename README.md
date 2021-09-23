@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ossysaadi
-- 👀 I’m interested in programming, AI, & Cybersecurity
+- 👀 I’m interested in Programming, AI, & Cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing :D Yet
 - 📫 How to reach me email: osamaismail5885gmail.com
